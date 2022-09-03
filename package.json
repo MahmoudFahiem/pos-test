@@ -1,0 +1,27 @@
+{
+  "name": "pos-test",
+  "version": "1.0.0",
+  "description": "A simple Part of Speech (POS) interactive test",
+  "main": "index.js",
+  "scripts": {
+    "frontend": "cd pos-test-frontend && npm start",
+    "build-frontend": "cd pos-test-frontend && npm build",
+    "server": "cd pos-test-backend && npm start",
+    "server-dev": "cd pos-test-backend && npm run dev"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "express",
+    "json",
+    "frontend",
+    "backend",
+    "web",
+    "react",
+    "redux",
+    "redux-toolkit",
+    "react-router"
+  ],
+  "author": "Mahmoud Fahiem",
+  "license": "ISC"
+}
